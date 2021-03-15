@@ -1,0 +1,169 @@
+http://a5.vc/JHX #Name: iptvtools_1
+http://srvx.io:80/live/7885037935/fireurl.co/71762.ts #Name: A&E HD
+http://a5.vc/Xun #Name: iptvtools_3
+http://srvx.io:80/live/7885037935/fireurl.co/71768.ts #Name: AMC FHD
+http://a5.vc/Sx8 #Name: iptvtools_5
+http://srvx.io:80/live/7885037935/fireurl.co/71772.ts #Name: Animal Planet FHD
+http://a5.vc/aDZ #Name: iptvtools_7
+http://srvx.io:80/live/7885037935/fireurl.co/71777.ts #Name: Arte 1 FHD
+http://a5.vc/dbM #Name: iptvtools_9
+http://srvx.io:80/live/7885037935/fireurl.co/71781.ts #Name: AXN FHD
+http://a5.vc/j8Y #Name: iptvtools_11
+http://srvx.io:80/live/7885037935/fireurl.co/71801.ts #Name: Band Sports FHD
+http://a5.vc/TDh #Name: iptvtools_13
+http://srvx.io:80/live/7885037935/fireurl.co/71806.ts #Name: BIS FHD
+http://a5.vc/DtS #Name: iptvtools_15
+http://srvx.io:80/live/7885037935/fireurl.co/71812.ts #Name: Boomerang FHD
+http://a5.vc/tSP #Name: iptvtools_17
+http://srvx.io:80/live/7885037935/fireurl.co/71824.ts #Name: Canal Sony FHD
+http://a5.vc/Ts9 #Name: iptvtools_19
+http://srvx.io:80/live/7885037935/fireurl.co/71828.ts #Name: Cartoon Network FHD
+http://a5.vc/j8T #Name: iptvtools_21
+http://srvx.io:80/live/7885037935/fireurl.co/71833.ts #Name: Cinemax FHD
+http://srvx.io:80/live/7885037935/fireurl.co/72994.ts #Name: Cine SKY 1 HD
+http://srvx.io:80/live/7885037935/fireurl.co/72995.ts #Name: Cine SKY 2 HD
+http://srvx.io:80/live/7885037935/fireurl.co/72996.ts #Name: Cine SKY 3 HD
+http://srvx.io:80/live/7885037935/fireurl.co/72997.ts #Name: Cine SKY 4 HD
+http://srvx.io:80/live/7885037935/fireurl.co/72998.ts #Name: Cine SKY 5 HD
+http://srvx.io:80/live/7885037935/fireurl.co/72999.ts #Name: Cine SKY 6 HD
+http://srvx.io:80/live/7885037935/fireurl.co/73000.ts #Name: Cine SKY 7 HD
+http://srvx.io:80/live/7885037935/fireurl.co/73001.ts #Name: Cine SKY 8 HD
+http://srvx.io:80/live/7885037935/fireurl.co/73002.ts #Name: Cine SKY 9 HD
+http://srvx.io:80/live/7885037935/fireurl.co/73003.ts #Name: Cine SKY 10 HD
+http://a5.vc/kBr #Name: iptvtools_33
+http://srvx.io:80/live/7885037935/fireurl.co/71837.ts #Name: CNN Brasil FHD
+http://a5.vc/Flm #Name: iptvtools_35
+http://srvx.io:80/live/7885037935/fireurl.co/71842.ts #Name: Combate FHD
+http://a5.vc/mT5 #Name: iptvtools_37
+http://srvx.io:80/live/7885037935/fireurl.co/71847.ts #Name: Comedy Central FHD
+http://srvx.io:80/live/7885037935/fireurl.co/72991.ts #Name: Conmebol TV 4 HD
+http://srvx.io:80/live/7885037935/fireurl.co/71853.ts #Name: Cultura HD
+http://a5.vc/CyU #Name: iptvtools_44
+http://srvx.io:80/live/7885037935/fireurl.co/71855.ts #Name: Curta FHD
+http://a5.vc/6qb #Name: iptvtools_46
+http://srvx.io:80/live/7885037935/fireurl.co/71860.ts #Name: DAZN 1 HD
+http://a5.vc/6qb #Name: iptvtools_48
+http://srvx.io:80/live/7885037935/fireurl.co/72630.ts #Name: DAZN 2 HD
+http://a5.vc/6qb #Name: iptvtools_50
+http://srvx.io:80/live/7885037935/fireurl.co/71861.ts #Name: DAZN 3 HD
+http://a5.vc/6qb #Name: iptvtools_52
+http://srvx.io:80/live/7885037935/fireurl.co/71859.ts #Name: DAZN 4 HD
+http://a5.vc/Oj9 #Name: iptvtools_54
+http://srvx.io:80/live/7885037935/fireurl.co/71862.ts #Name: Discovery Channel FHD
+http://a5.vc/XcV #Name: iptvtools_56
+http://srvx.io:80/live/7885037935/fireurl.co/71867.ts #Name: Discovery H&H FHD
+http://a5.vc/KvX #Name: iptvtools_58
+http://srvx.io:80/live/7885037935/fireurl.co/71871.ts #Name: Discovery Kids FHD
+http://a5.vc/0gi #Name: iptvtools_60
+http://srvx.io:80/live/7885037935/fireurl.co/71875.ts #Name: Discovery Science FHD
+http://a5.vc/Nib #Name: iptvtools_62
+http://srvx.io:80/live/7885037935/fireurl.co/71879.ts #Name: Discovery Theater FHD
+http://a5.vc/uCQ #Name: iptvtools_64
+http://srvx.io:80/live/7885037935/fireurl.co/71883.ts #Name: Discovery Turbo FHD
+http://a5.vc/wgC #Name: iptvtools_66
+http://srvx.io:80/live/7885037935/fireurl.co/71887.ts #Name: Discovery World FHD
+http://a5.vc/MJq #Name: iptvtools_68
+http://srvx.io:80/live/7885037935/fireurl.co/71891.ts #Name: Disney Channel FHD
+http://a5.vc/kzm #Name: iptvtools_70
+http://srvx.io:80/live/7885037935/fireurl.co/71895.ts #Name: Disney Junior FHD
+http://srvx.io:80/live/7885037935/fireurl.co/76922.ts #Name: DogTV FHD
+http://a5.vc/DKx #Name: iptvtools_73
+http://srvx.io:80/live/7885037935/fireurl.co/71900.ts #Name: E! FHD
+http://a5.vc/uqI #Name: iptvtools_75
+http://a5.vc/uqI #Name: iptvtools_77
+http://a5.vc/uqI #Name: iptvtools_79
+http://a5.vc/uqI #Name: iptvtools_81
+http://a5.vc/uqI #Name: iptvtools_83
+http://a5.vc/uqI #Name: iptvtools_85
+http://srvx.io:80/live/7885037935/fireurl.co/76673.ts #Name: Estádio TNT Sports 6 HD
+http://srvx.io:80/live/7885037935/fireurl.co/73254.ts #Name: Eleven Sports 1 FHD
+http://srvx.io:80/live/7885037935/fireurl.co/73255.ts #Name: Eleven Sports 2 FHD
+http://srvx.io:80/live/7885037935/fireurl.co/73256.ts #Name: Eleven Sports 3 FHD
+http://srvx.io:80/live/7885037935/fireurl.co/73257.ts #Name: Eleven Sports 4 FHD
+http://srvx.io:80/live/7885037935/fireurl.co/73258.ts #Name: Eleven Sports 5 FHD
+http://srvx.io:80/live/7885037935/fireurl.co/73259.ts #Name: Eleven Sports 6 FHD
+http://a5.vc/KCw #Name: iptvtools_93
+http://srvx.io:80/live/7885037935/fireurl.co/71907.ts #Name: ESPN 2 FHD
+http://a5.vc/YpF #Name: iptvtools_95
+http://srvx.io:80/live/7885037935/fireurl.co/71911.ts #Name: ESPN Brasil FHD
+http://a5.vc/YpF #Name: iptvtools_97
+http://srvx.io:80/live/7885037935/fireurl.co/71915.ts #Name: ESPN Extra FHD
+http://a5.vc/8lJ #Name: iptvtools_99
+http://srvx.io:80/live/7885037935/fireurl.co/71919.ts #Name: ESPN FHD
+http://srvx.io:80/live/7885037935/fireurl.co/73005.ts #Name: Facebook Watch 
+http://srvx.io:80/live/7885037935/fireurl.co/79316.ts #Name: Facebook Watch 2 
+http://srvx.io:80/live/7885037935/fireurl.co/79317.ts #Name: Facebook Watch 3 
+http://srvx.io:80/live/7885037935/fireurl.co/71924.ts #Name: FashionTV FHD
+http://a5.vc/cii #Name: iptvtools_105
+http://srvx.io:80/live/7885037935/fireurl.co/72332.ts #Name: SporTV HD
+http://a5.vc/YO7 #Name: iptvtools_107
+http://fsrv.me:80/live/7885037935/fireurl.co/72323.ts #Name: SporTV 2 HD
+http://a5.vc/ybu #Name: iptvtools_109
+http://srvx.io:80/live/7885037935/fireurl.co/72327.ts #Name: SporTV 3 HD
+http://a5.vc/StA #Name: iptvtools_111
+http://srvx.io:80/live/7885037935/fireurl.co/71928.ts #Name: Fish TV FHD
+http://a5.vc/ZHe #Name: iptvtools_113
+http://srvx.io:80/live/7885037935/fireurl.co/71932.ts #Name: Food Network FHD
+http://a5.vc/Ck2 #Name: iptvtools_115
+http://srvx.io:80/live/7885037935/fireurl.co/71936.ts #Name: Star Channel FHD
+http://a5.vc/OVC #Name: iptvtools_117
+http://srvx.io:80/live/7885037935/fireurl.co/71939.ts #Name: Star Life FHD
+http://a5.vc/3gn #Name: iptvtools_119
+http://srvx.io:80/live/7885037935/fireurl.co/71943.ts #Name: Star Hits FHD
+http://a5.vc/0ud #Name: iptvtools_121
+http://srvx.io:80/live/7885037935/fireurl.co/71947.ts #Name: Star Hits 2 FHD
+http://a5.vc/DXo #Name: iptvtools_123
+http://srvx.io:80/live/7885037935/fireurl.co/71952.ts #Name: Fox Sports 2 FHD
+http://a5.vc/55i #Name: iptvtools_125
+http://srvx.io:80/live/7885037935/fireurl.co/71957.ts #Name: Fox Sports FHD
+http://a5.vc/JsW #Name: iptvtools_127
+http://srvx.io:80/live/7885037935/fireurl.co/71966.ts #Name: FX FHD
+http://a5.vc/3pv #Name: iptvtools_129
+http://srvx.io:80/live/7885037935/fireurl.co/72025.ts #Name: Globo RJ FHD
+http://a5.vc/3pv #Name: iptvtools_131
+http://srvx.io:80/live/7885037935/fireurl.co/72040.ts #Name: Globo SP FHD
+http://srvx.io:80/live/7885037935/fireurl.co/90631.ts #Name: Gloobinho FHD
+http://a5.vc/scT #Name: iptvtools_134
+http://srvx.io:80/live/7885037935/fireurl.co/72102.ts #Name: GNT FHD
+http://a5.vc/VE2 #Name: iptvtools_136
+http://srvx.io:80/live/7885037935/fireurl.co/72125.ts #Name: HBO Plus FHD
+http://srvx.io:80/live/7885037935/fireurl.co/72129.ts #Name: HBO Pop FHD
+http://a5.vc/2N4 #Name: iptvtools_150
+http://srvx.io:80/live/7885037935/fireurl.co/72134.ts #Name: HBO Signature FHD
+http://srvx.io:80/live/7885037935/fireurl.co/72138.ts #Name: HBO Xtreme FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/89722.ts #Name: BBB 1 FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/89721.ts #Name: BBB 1 FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/89720.ts #Name: BBB 1 HD
+http://dnsx.co:80/live/7885037935/fireurl.co/89719.ts #Name: BBB 1 SD
+http://dnsx.co:80/live/7885037935/fireurl.co/89714.ts #Name: BBB 2 FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/89713.ts #Name: BBB 2 FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/89712.ts #Name: BBB 2 HD
+http://dnsx.co:80/live/7885037935/fireurl.co/89711.ts #Name: BBB 2 SD
+http://dnsx.co:80/live/7885037935/fireurl.co/93492.ts #Name: BBB Acompanhe a Casa Extra FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/93493.ts #Name: BBB Acompanhe a Casa Extra HD
+http://dnsx.co:80/live/7885037935/fireurl.co/93494.ts #Name: BBB Acompanhe a Casa Extra SD
+http://dnsx.co:80/live/7885037935/fireurl.co/93498.ts #Name: BBB Confessionario FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/93499.ts #Name: BBB Confessionario HD
+http://dnsx.co:80/live/7885037935/fireurl.co/93500.ts #Name: BBB Confessionario SD
+http://dnsx.co:80/live/7885037935/fireurl.co/93501.ts #Name: BBB Cozinha Vip Xepa FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/93502.ts #Name: BBB Cozinha Vip Xepa HD
+http://dnsx.co:80/live/7885037935/fireurl.co/93503.ts #Name: BBB Cozinha Vip Xepa SD
+http://dnsx.co:80/live/7885037935/fireurl.co/93504.ts #Name: BBB Jardim FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/93505.ts #Name: BBB Jardim HD
+http://dnsx.co:80/live/7885037935/fireurl.co/93506.ts #Name: BBB Jardim SD
+http://dnsx.co:80/live/7885037935/fireurl.co/89718.ts #Name: BBB Mosaico FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/89717.ts #Name: BBB Mosaico FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/89716.ts #Name: BBB Mosaico HD
+http://dnsx.co:80/live/7885037935/fireurl.co/89715.ts #Name: BBB Mosaico SD
+http://dnsx.co:80/live/7885037935/fireurl.co/93507.ts #Name: BBB Piscina FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/93508.ts #Name: BBB Piscina HD
+http://dnsx.co:80/live/7885037935/fireurl.co/93509.ts #Name: BBB Piscina SD
+http://dnsx.co:80/live/7885037935/fireurl.co/93510.ts #Name: BBB Quarto Colorido FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/93511.ts #Name: BBB Quarto Colorido HD
+http://dnsx.co:80/live/7885037935/fireurl.co/93512.ts #Name: BBB Quarto Colorido SD
+http://dnsx.co:80/live/7885037935/fireurl.co/93513.ts #Name: BBB Quarto Cordel FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/93514.ts #Name: BBB Quarto Cordel HD
+http://dnsx.co:80/live/7885037935/fireurl.co/93515.ts #Name: BBB Quarto Cordel SD
+http://dnsx.co:80/live/7885037935/fireurl.co/93519.ts #Name: BBB Sala de Estar FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/93520.ts #Name: BBB Sala de Estar HD
+http://dnsx.co:80/live/7885037935/fireurl.co/93521.ts #Name: BBB Sala de Estar SD
